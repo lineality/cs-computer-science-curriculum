@@ -1,2 +1,2 @@
 # teaching-cs-computer-science
-Teaching CS Computer Science, Outline and Curriculum Notes &amp; Suggestions
+Teaching CS Computer Science and Programming, Outline and Curriculum Notes &amp; Suggestions
