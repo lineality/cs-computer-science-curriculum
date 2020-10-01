@@ -45,7 +45,6 @@ Two good accessible (for any reader) history of computers books are:
 - Modular-Recombination Based
 - Team-Work Based
 
-......
 
 # Elements of Programming:
 
