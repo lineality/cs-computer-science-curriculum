@@ -32,7 +32,11 @@ You could source a topic/skill list from this as a content map, and then source 
 - SCRUM software team project organization
 - History of Computer Development
 
-......
+
+# History:
+Two good accessible (for any reader) history of computers books are:
+- https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703
+- https://www.amazon.com/Information-History-Theory-Flood-ebook/dp/B004DEPHUC
 
 # Curriculum Standards: An effective curriculum should be...
 - Project Based (learn by doing, fail early and often)
