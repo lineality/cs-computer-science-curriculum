@@ -49,10 +49,10 @@ Two good accessible (for any reader) history of computers books are:
 # Elements of Programming:
 
 ## Files:
-	- print
-	- open
-	- change
-	- save
+- print
+- open
+- change
+- save
 
 ## Types of Operations & Specific Operations
 - Math Operations: * ** / // % + - 
