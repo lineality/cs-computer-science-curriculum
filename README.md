@@ -73,7 +73,7 @@ Two good accessible (for any reader) history of computers books are:
 	- Trees
 	- Sets
 	- Tuples
-	- 
+
 
 ### On Programing 
 ### Intro: programming vs. "Computer Science"
