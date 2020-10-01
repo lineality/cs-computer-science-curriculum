@@ -2,7 +2,7 @@
 Teaching CS Computer Science and Programming: Outline,Curriculum, Notes, Suggestions, Examples
 
 
-#CS Curricula Notes
+# CS Curricula Notes
 https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
 
 
