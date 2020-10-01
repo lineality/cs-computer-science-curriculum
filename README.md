@@ -43,15 +43,15 @@ You could source a topic/skill list from this as a content map, and then source 
 
 ......
 
-Elements of Programming:
+# Elements of Programming:
 
-Files:
+## Files:
 	- print
 	- open
 	- change
 	- save
 
-Types of Operations & Specific Operations
+## Types of Operations & Specific Operations
 - Math Operations: * ** / // % + - 
 - directory: move
 - file: open close 
@@ -61,7 +61,7 @@ Types of Operations & Specific Operations
 - bitwize: ^ & or
 (mutability) 
 
-Data Structures
+## Data Structures
 	- Lists/Arrays
 	- Dictionaries
 	- Linked-lists
@@ -71,11 +71,9 @@ Data Structures
 	- Sets
 	- Tuples
 	- 
-...
 
-Programing 
-
-Intro: programming vs. "Computer Science"
+### On Programing 
+### Intro: programming vs. "Computer Science"
 - style
 -- The primary question and criteria for anything added or done to a set of code is: How does this make the code easier to read, understand, and build on? If the addition or change does not help those, that is a red flag.
 - workflow
@@ -83,45 +81,43 @@ Intro: programming vs. "Computer Science"
 - practical skills
 - managing environments and tools 
 
-...
+# Sample Starting Point / Starting Lesson
+## Recommended First Language: Python
 
-Language: Python
+## Main Tools:
+- Editor (Text editor, ~ IDE, like Word Processor)
+- Terminal (Command Prompt, Shell, ~Bash)
+- Notebook (Jyputer, Colab)
 
-Main Tools:
-Editor 	(Text editor, ~ IDE, like Word Processor)
-Terminal (Command Prompt, Shell, ~Bash)
-Notebook (Jyputer, Colab)
-
-Environment:
+## Environment:
 	- local or online
 	- linter, formater
 	- virtual/container
 
-Code Challenge Websites: (Try them all)
+## Code Challenge Websites: (Try them all)
 - edabit https://edabit.com/ https://edabit.com/challenges/python3 
 - Code Signal https://app.codesignal.com/ 
 - Leet Code https://leetcode.com/ 
 - Hacker Rank https://www.hackerrank.com/ 
 
-
+```
 ~ U.P.E.R.
 U -> Understand
 P -> Plan (pseudocode)
 E -> Execute 
 R -> Reflect / Revise / Reiterate / Recurse / Review / Compare
+```
+
+# Begin!
+
+## Open 2 Windows:
+- https://edabit.com/challenges/python3 
+- https://colab.research.google.com
 
 
-Begin!
-
-Open 2 Windows:
-https://edabit.com/challenges/python3 
-https://colab.research.google.com
 
 
-
-
-
-Method: Best Practice Coding Template
+- Method: Best Practice Coding Template
 
 ```
 # Problem (User Problem)
