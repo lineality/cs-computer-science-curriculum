@@ -17,10 +17,10 @@ You could source a topic/skill list from this as a content map, and then source 
 - leetcode https://leetcode.com/ 
 - edabyte https://edabit.com/
 - code signal  https://app.codesignal.com/ 
-- https://hyperskill.org/curriculum
-- hackerrank
+- JetBrains https://hyperskill.org/curriculum
+- hackerrank https://www.hackerrank.com/challenges/
 - sololearn https://www.sololearn.com/ (great on mobile)
-- (tribyte) https://triplebyte.com/
+- tribyte https://triplebyte.com/
 
 
 # CS curricula commonly include: 
