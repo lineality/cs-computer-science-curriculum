@@ -103,15 +103,18 @@ Two good accessible (for any reader) history of computers books are:
 - Leet Code https://leetcode.com/ 
 - Hacker Rank https://www.hackerrank.com/ 
 
+### S.U.P.E.R. Problem Solving Framework
+
 ```
-~ U.P.E.R.
+~ S.U.P.E.R.
+S -> Stop, Focus
 U -> Understand
 P -> Plan (pseudocode)
 E -> Execute 
 R -> Reflect / Revise / Reiterate / Recurse / Review / Compare
 ```
 
-# Begin!
+# Begin! (Example Starting Activity)
 
 ## Open 2 Windows:
 - https://edabit.com/challenges/python3 
