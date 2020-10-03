@@ -105,9 +105,9 @@ Two good accessible (for any reader) history of computers books are:
 - Notebook (Jyputer, Colab)
 
 ## Environment:
-	- local or online
-	- linter, formater
-	- virtual/container
+- local or online
+- linter, formater
+- virtual/container
 
 ## Code Challenge Websites: (Try them all)
 - Edabit https://edabit.com/ https://edabit.com/challenges/python3 
