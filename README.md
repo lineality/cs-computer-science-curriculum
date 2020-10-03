@@ -133,9 +133,7 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare
 - https://colab.research.google.com
 
 
-
-
-- Method: Best Practice Coding Template
+## Best Practice Coding Template
 
 ```
 # Problem (User Problem)
@@ -151,4 +149,3 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare
 
 # YOUR CODE HERE
 ```
- 
