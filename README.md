@@ -115,6 +115,7 @@ Two good accessible (for any reader) history of computers books are:
 - Hacker Rank https://www.hackerrank.com/ 
 
 ### S.U.P.E.R. Problem Solving Framework
+For solving problems that either at first seem too difficult to solve or problems that seemed easy at first but became difficult and confusing (for example, due to incomplete or incorrect instructions, as often happens on 'code challenge' websites). 
 
 ```
 ~ S.U.P.E.R.
