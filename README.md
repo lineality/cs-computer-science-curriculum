@@ -63,7 +63,14 @@ Two good accessible (for any reader) history of computers books are:
 - Data Structure Operations: slice, append, remove, add, pop, push, 
 - Boolean Operations: True False: && | == is and not 
 - Bitwise Operations: ^ & or
-(mutability) 
+- Unpacking (as in Tuple Unpacking)
+- Mutability: ability or inability to be changed
+	- List Comprehensions:
+
+## Data Types:
+- Examples of Types:
+- Automatic Type Detection:
+- Strict or not-strict Typing:
 
 ## Data Structures
 	- Lists/Arrays
