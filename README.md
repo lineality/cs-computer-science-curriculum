@@ -131,7 +131,7 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare
 # You Need: 
 # You Must: 
 
-# Solution (Product / Feature for User)
+# Solution (Product / Feature)
 # 
 
 # I Learned:
