@@ -76,13 +76,17 @@ Two good accessible (for any reader) history of computers books are:
 
 
 ### On Programing 
-### Intro: programming vs. "Computer Science"
-- style
--- The primary question and criteria for anything added or done to a set of code is: How does this make the code easier to read, understand, and build on? If the addition or change does not help those, that is a red flag.
-- workflow
-- best practice
-- practical skills
-- managing environments and tools 
+- "Programming" vs. "Computer Science": Depending on the course, Programing and  Computer-Science may be lumped together or taught separately or only one may be touched on. The distinction (if one is made) is often similar to the 'pure vs. applied' common throughout science and engineering, etc. 'Computer Science' is often pure ideas and ideals, concepts and principles. 'Programing' is often full of specific hardware and software skills and various practical considerations in doing projects in the real world.  
+- Style:  The primary question and criteria for anything added to or done to a set of code is: How does this make the code easier to read, understand, and build on? If the addition or change does not help in any of those contexts, that is a red flag. There are people who aggressively attack readability, which is also a red flag. 
+- Workflow
+- Best Practice
+- Practical Skills
+- Managing Environments and Tools
+- Policy and Goals:
+- Schedules and "Iterative" feature deployment:  Agile, Scrum
+- Working On A Team: Agile, Scrum
+
+
 
 # Sample Starting Point / Starting Lesson
 ## Recommended First Language: Python
@@ -98,7 +102,7 @@ Two good accessible (for any reader) history of computers books are:
 	- virtual/container
 
 ## Code Challenge Websites: (Try them all)
-- edabit https://edabit.com/ https://edabit.com/challenges/python3 
+- Edabit https://edabit.com/ https://edabit.com/challenges/python3 
 - Code Signal https://app.codesignal.com/ 
 - Leet Code https://leetcode.com/ 
 - Hacker Rank https://www.hackerrank.com/ 
