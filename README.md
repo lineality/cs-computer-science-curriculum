@@ -8,7 +8,7 @@ https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/
 
 # Approaches
 1. One method is to follow the curricula posted by established institutions:
-http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
+http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ 
 You could source a topic/skill list from this as a content map, and then source further instruction from online. https://www.khanacademy.org/  tends to be very reliable.
 
 2. Another approach is to use the "standard technical interview" as your guide to compiling a primary skill/ability list: https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
@@ -18,7 +18,7 @@ You could source a topic/skill list from this as a content map, and then source 
 - edabyte https://edabit.com/
 - code signal  https://app.codesignal.com/ 
 - JetBrains https://hyperskill.org/curriculum
-- hackerrank https://www.hackerrank.com/challenges/
+- hackerrank https://www.hackerrank.com/challenges/ 
 - sololearn https://www.sololearn.com/ (great on mobile)
 - tribyte https://triplebyte.com/
 
