@@ -55,14 +55,14 @@ Two good accessible (for any reader) history of computers books are:
 - save
 
 ## Operations: Types of Operations & Specific Operations
-- logical operators: not,  and, or, nor, nand
+- Logical operators: not,  and, or, nor, nand
 - Math Operations: * ** / // % + - 
-- directory operations: move
-- file operations: open close 
-- string operations: print, slice, 
-- data structure: slice, append, remove, add, pop, push, 
-- boolean: True False: && | == is and not 
-- bitwize: ^ & or
+- Directory Operations: move
+- File Operations: open close 
+- String Operations: print, slice, 
+- Data Structure Operations: slice, append, remove, add, pop, push, 
+- Boolean Operations: True False: && | == is and not 
+- Bitwise Operations: ^ & or
 (mutability) 
 
 ## Data Structures
