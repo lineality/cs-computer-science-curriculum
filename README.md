@@ -116,7 +116,11 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Networks (setting up HTTPS, remote SSH)
 - Security (passwords, encryption, social engineering, etc.)
 
-
+# And...
+- Parallel Processing
+- Functional Programming
+- Quantum Computing
+-  
 
 # Sample Starting Point / Starting Lesson
 
