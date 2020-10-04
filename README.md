@@ -119,7 +119,11 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 
 
 # Sample Starting Point / Starting Lesson
+
 ## Recommended First Language: Python
+
+A Colab as a template for first lesson notes:
+https://colab.research.google.com/drive/1dJFunMg6wT-ht8TQ5xpo3PNrnvDkjlhx?usp=sharing
 
 ## Main Tools:
 - Editor (Text editor, ~ IDE, like Word Processor)
