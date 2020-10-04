@@ -130,7 +130,7 @@ A Colab as a template for first lesson notes:
 https://colab.research.google.com/drive/1dJFunMg6wT-ht8TQ5xpo3PNrnvDkjlhx?usp=sharing
 
 ## Main Tools:
-- Editor (Text editor, ~ IDE, like Word Processor)
+- Editor (Text editor, ~ IDE, IDK, like Word Processor)
 - Terminal (Command Prompt, Shell, ~Bash)
 - Notebook (Jyputer, Colab)
 
