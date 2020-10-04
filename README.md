@@ -92,6 +92,12 @@ Two good accessible (for any reader) history of computers books are:
 - Maps (HashMaps, SortedMaps, TreeMaps, ListMaps)
 - Sequences(Seq)
 
+## Algorithms
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/syllabus/
+- Sorting
+- Runtime
+- Memory Costs
+
 ### On "Programing"
 - "Programming" vs. "Computer Science": Depending on the course, Programing and  Computer-Science may be lumped together or taught separately or only one may be touched on. The distinction (if one is made) is often similar to the 'pure vs. applied' divide common throughout science and engineering, etc. 'Computer Science' is often pure ideas and ideals, concepts and principles. 'Programing' is often full of specific hardware-and-software skills and various practical considerations in doing projects in the real world.  
 - Style:  The primary question and criteria for anything added to or done to a set of code is: How does this make the code easier to read, understand, and build on? If the addition or change does not help in any of those contexts, that is a red flag. There are people who aggressively attack readability, which is also a red flag. 
