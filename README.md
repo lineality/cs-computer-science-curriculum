@@ -1,12 +1,11 @@
-# teaching-cs-computer-science
-Teaching CS Computer Science and Programming: Outline, Curriculum, Notes, Suggestions, Examples
 
+# Teaching CS Computer Science and Programming: Outline, Curriculum, Notes, Suggestions, Examples
 
-# CS Curricula Notes
+# Doc Version
 https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
 
 
-# Approaches
+# Approaches To Designing a "CS" Curriculum
 1. One method is to follow the curricula posted by established institutions:
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ You could source a topic/skill list from this as a content map, and then source further instruction from online. https://www.khanacademy.org/  tends to be very reliable.
 
@@ -67,7 +66,7 @@ Two good accessible (for any reader) history of computers books are:
 - List Comprehensions:
 
 ## Data Types:
-- Examples of Types:
+- Examples of Types: int long short float char boolean 
 - Automatic Type Detection:
 - Strict or not-strict Typing:
 
@@ -80,7 +79,18 @@ Two good accessible (for any reader) history of computers books are:
 - Trees
 - Sets
 - Tuples
-
+- Vectors
+- Streams
+- Queues
+- Strings
+- Stacks
+- Blobs
+- Flat "Serialized" Structures
+- Hash Tables
+- Graphs
+- Sets 
+- Maps (HashMaps, SortedMaps, TreeMaps, ListMaps)
+- Sequences(Seq)
 
 ### On Programing 
 - "Programming" vs. "Computer Science": Depending on the course, Programing and  Computer-Science may be lumped together or taught separately or only one may be touched on. The distinction (if one is made) is often similar to the 'pure vs. applied' common throughout science and engineering, etc. 'Computer Science' is often pure ideas and ideals, concepts and principles. 'Programing' is often full of specific hardware and software skills and various practical considerations in doing projects in the real world.  
