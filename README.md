@@ -92,16 +92,23 @@ Two good accessible (for any reader) history of computers books are:
 - Maps (HashMaps, SortedMaps, TreeMaps, ListMaps)
 - Sequences(Seq)
 
-### On Programing 
-- "Programming" vs. "Computer Science": Depending on the course, Programing and  Computer-Science may be lumped together or taught separately or only one may be touched on. The distinction (if one is made) is often similar to the 'pure vs. applied' common throughout science and engineering, etc. 'Computer Science' is often pure ideas and ideals, concepts and principles. 'Programing' is often full of specific hardware and software skills and various practical considerations in doing projects in the real world.  
+### On "Programing"
+- "Programming" vs. "Computer Science": Depending on the course, Programing and  Computer-Science may be lumped together or taught separately or only one may be touched on. The distinction (if one is made) is often similar to the 'pure vs. applied' divide common throughout science and engineering, etc. 'Computer Science' is often pure ideas and ideals, concepts and principles. 'Programing' is often full of specific hardware-and-software skills and various practical considerations in doing projects in the real world.  
 - Style:  The primary question and criteria for anything added to or done to a set of code is: How does this make the code easier to read, understand, and build on? If the addition or change does not help in any of those contexts, that is a red flag. There are people who aggressively attack readability, which is also a red flag. 
-- Workflow
+- Terminal & Bash
+- Deployment (making products available to users)
+- Tools (Text Editor, vs Word Processor; IDE; Notebooks)
+- Interpreters, Compilers
+- Managing 'Environments' (Docker, Pip)
+- Workflow (Data Science workflow vs. WebDev workflow)
 - Best Practice
 - Practical Skills
 - Managing Environments and Tools
 - Policy and Goals:
 - Schedules and "Iterative" feature deployment:  Agile, Scrum
 - Working On A Team: Agile, Scrum
+- Networks (setting up HTTPS, remote SSH)
+- Security (passwords, encryption, social engineering, etc.)
 
 
 
