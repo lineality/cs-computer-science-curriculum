@@ -1,6 +1,7 @@
 
 # Teaching CS Computer Science and Programming: Outline, Curriculum, Notes, Suggestions, Examples
 
+
 # Doc Version
 https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
 
@@ -21,6 +22,7 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ Yo
 - tribyte https://triplebyte.com/
 
 
+ 
 # CS curricula commonly include: 
 - Languages (Languages programming & scripting Languages): types, features, uses
 - Programming: problem solving strategies, debugging, testing, functions, OOP vs Functional
