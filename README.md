@@ -20,6 +20,8 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ Yo
 - sololearn https://www.sololearn.com/ (mobile)
 - tribyte https://triplebyte.com/
 
+# Curriculum Standards:
+(pending)
 
 # CS curricula commonly include: 
 - Languages (Languages programming & scripting Languages): types, features, uses
@@ -79,7 +81,6 @@ Two good accessible (for any reader) history of computers books are:
 - Trees
 - Sets
 - Tuples
-- Vectors
 - Streams
 - Queues
 - Strings
@@ -91,6 +92,16 @@ Two good accessible (for any reader) history of computers books are:
 - Sets 
 - Maps (HashMaps, SortedMaps, TreeMaps, ListMaps)
 - Sequences(Seq)
+
+## Other Elements of Coding & Programing
+- Objects
+- Functions
+- Lambda Functions
+- Methods
+
+- Vectors
+- Tensors
+- Matrices
 
 ## Algorithms
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/syllabus/
@@ -127,7 +138,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 ## Recommended First Language: Python
 
 A Colab as a template for first lesson notes:
-https://colab.research.google.com/drive/1dJFunMg6wT-ht8TQ5xpo3PNrnvDkjlhx
+https://colab.research.google.com/drive/1dJFunMg6wT-ht8TQ5xpo3PNrnvDkjlhx?usp=sharing
 
 ## Main Tools:
 - Editor (Text editor, ~ IDE, IDK, like Word Processor)
