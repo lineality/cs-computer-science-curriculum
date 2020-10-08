@@ -6,12 +6,16 @@ https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/
 
 
 # Approaches To Designing a "CS" Curriculum
-1. One method is to follow the curricula posted by established institutions:
-http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ You could source a topic/skill list from this as a content map, and then source further instruction from online. https://www.khanacademy.org/  tends to be very reliable.
+1. Follow curricula posted by established institutions:
+http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ You could source a topic/skill list from this as a content map, and then source further instruction from online. 
+Note: This will likely be shifted towards abstract principles (and away from practical implementation)
+https://www.khanacademy.org/  tends to be very reliable.
 
-2. Another approach is to use the "standard technical interview" as your guide to compiling a primary skill/ability list: https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
+2. Use "the standard technical interview" or "coding interview" as your guide to compiling a primary skill/ability list:
+Note: This will likely be shifted towards practical programming (and way from abstract principle discussion). https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
 
 3. Another approach is extensive use of free code challenge and exam sites:
+(The idea being that in the course of doing so you will discover a cross section of practical and theoretical topics.)
 - leetcode https://leetcode.com/ 
 - edabyte https://edabit.com/
 - code signal  https://app.codesignal.com/ 
@@ -21,7 +25,15 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ Yo
 - tribyte https://triplebyte.com/
 
 # Curriculum Standards:
-(pending)
+1. A clear and comprehensive content-curriculum
+2. Teaching method standards (see ISEP areas / SNES)
+3. Content Maps per lesson/sub-unit
+4. Team project modes
+5. Story/Narrative based
+6. Cumulative-Review
+7. Student Progression Feedback Based
+8. Pre, Post, Formative, Summative, Testing and separated instruction and certification
+9. Privacy Conscious
 
 # CS curricula commonly include: 
 - Languages (Languages programming & scripting Languages): types, features, uses
