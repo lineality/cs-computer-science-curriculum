@@ -22,7 +22,7 @@ Note: This will likely be shifted towards practical programming (and way from ab
 - JetBrains https://hyperskill.org/curriculum
 - hackerrank https://www.hackerrank.com/challenges/ 
 - sololearn https://www.sololearn.com/ (mobile)
-- tribyte https://triplebyte.com/
+- triplebyte https://triplebyte.com/
 
 # Curriculum Standards:
 1. A clear and comprehensive content-curriculum
