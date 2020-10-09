@@ -21,8 +21,12 @@ Note: This will likely be shifted towards practical programming (and way from ab
 - code signal  https://app.codesignal.com/ 
 - JetBrains https://hyperskill.org/curriculum
 - hackerrank https://www.hackerrank.com/challenges/ 
-- sololearn https://www.sololearn.com/ (mobile)
 - triplebyte https://triplebyte.com/
+
+Mobile:
+- sololearn https://www.sololearn.com/
+- m1m0 https://getmimo.com/ 
+- grasshopper https://grasshopper.app/ 
 
 # Curriculum Standards:
 1. A clear and comprehensive content-curriculum
