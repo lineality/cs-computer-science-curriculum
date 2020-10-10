@@ -149,6 +149,24 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Quantum Computing
 -  
 
+# Specialization Areas:
+- Coding For specialized hardware (Robotics)
+- General Software Engineering
+- Web Dev
+- Mobile 
+- Wearable 
+- IoT (Internet of Things)
+- Security
+- Big Data Software Engineering
+- Network Architecture Software Engineering
+- Domain/Sector Spectific
+	- Bio-Medical/Health
+	- Legal
+	- Aerospace
+	- Defense
+
+
+
 # Sample Starting Point / Starting Lesson
 
 ## Recommended First Language: Python
