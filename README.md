@@ -159,12 +159,11 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Security
 - Big Data Software Engineering
 - Network Architecture Software Engineering
-- Domain/Sector Spectific
-	- Bio-Medical/Health
+- Domain/Sector Specific
+	- Biomedical/Health
 	- Legal
 	- Aerospace
 	- Defense
-
 
 
 # Sample Starting Point / Starting Lesson
