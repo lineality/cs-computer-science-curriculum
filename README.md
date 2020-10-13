@@ -16,17 +16,17 @@ Note: This will likely be shifted towards practical programming (and way from ab
 
 3. Another approach is extensive use of free code challenge and exam sites:
 (The idea being that in the course of doing so you will discover a cross section of practical and theoretical topics.)
-- leetcode https://leetcode.com/ 
-- edabyte https://edabit.com/
-- code signal  https://app.codesignal.com/ 
+- Leetcode https://leetcode.com/ 
+- Edabyte https://edabit.com/
+- Code Signal  https://app.codesignal.com/ 
 - JetBrains https://hyperskill.org/curriculum
-- hackerrank https://www.hackerrank.com/challenges/ 
-- triplebyte https://triplebyte.com/
+- Hackerrank https://www.hackerrank.com/challenges/ 
+- Triplebyte https://triplebyte.com/
 
 Mobile:
-- sololearn https://www.sololearn.com/
+- Sololearn https://www.sololearn.com/
 - m1m0 https://getmimo.com/ 
-- grasshopper https://grasshopper.app/ 
+- Grasshopper (Google) https://grasshopper.app/ 
 
 # Curriculum Standards:
 1. A clear and comprehensive content-curriculum
