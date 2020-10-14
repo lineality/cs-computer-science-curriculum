@@ -197,8 +197,8 @@ S.U.P.E.R.
 S -> Stop, Focus, Take a deep breath
 U -> Understand the problem, read all the documentation, look at example inputs and outputs, examine code tests, look at edge case policies, etc. Know exactly what is needed.
 P -> Plan (pseudocode) Before starting to write your actual code, make a flow-chart and or pseudo-code outline, often running through a few examples to trace through how the process works
-E -> Execute, MVP; Start with a minimal  
-R -> Reflect / Revise / Reiterate / Recurse / Review / Compare
+E -> Execute, MVP; Start with a minimal working version/vision, test constantly as you work through each part, 
+R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other people, get feedback on alternative solutions, figure out what could be done better; identify tradeoffs and debates, though you may be correct in your case. 
 ```
 
 # Begin! (Example Starting Activity)
