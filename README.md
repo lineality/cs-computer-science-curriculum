@@ -190,14 +190,14 @@ https://colab.research.google.com/drive/1dJFunMg6wT-ht8TQ5xpo3PNrnvDkjlhx?usp=sh
 - Hacker Rank https://www.hackerrank.com/ 
 
 ### S.U.P.E.R. Problem Solving Framework
-For solving problems that either at first seem too difficult to solve or problems that seemed easy at first but became difficult and confusing (for example, due to incomplete or incorrect instructions, as often happens on 'code challenge' websites). 
+For solving problems that either at first seem too difficult to solve or problems that seemed easy at first but became difficult and confusing (for example, due to incomplete or incorrect instructions, as often happens on 'code challenge' websites), S.U.P.E.R. is one among many synonymous acronym frameworks for using best practice to systematically break down and solve a problem, cutting through other confusions, distractions, etc. 
 
 ```
-~ S.U.P.E.R.
-S -> Stop, Focus
-U -> Understand
-P -> Plan (pseudocode)
-E -> Execute 
+S.U.P.E.R.
+S -> Stop, Focus, Take a deep breath
+U -> Understand the problem, read all the documentation, look at example inputs and outputs, examine code tests, look at edge case policies, etc. Know exactly what is needed.
+P -> Plan (pseudocode) Before starting to write your actual code, make a flow-chart and or pseudo-code outline, often running through a few examples to trace through how the process works
+E -> Execute, MVP; Start with a minimal  
 R -> Reflect / Revise / Reiterate / Recurse / Review / Compare
 ```
 
