@@ -14,6 +14,7 @@ https://www.khanacademy.org/  tends to be very reliable.
 2. Use "the standard technical interview" or "coding interview" as your guide to compiling a primary skill/ability list:
 Note: This will likely be shifted towards practical programming (and way from abstract principle discussion). https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
 
+
 3. Another approach is extensive use of free code challenge and exam sites:
 (The idea being that in the course of doing so you will discover a cross section of practical and theoretical topics.)
 - Leetcode https://leetcode.com/ 
@@ -70,7 +71,7 @@ Two good accessible (for any reader) history of computers books are:
 - change
 - save
 
-## Operations: Types of Operations & Specific Operations
+## Operations: Types of Operations & Specific Operations 
 - Logical operators: not,  and, or, nor, nand
 - Math Operations: * ** / // % + - 
 - Directory Operations: move
@@ -85,8 +86,8 @@ Two good accessible (for any reader) history of computers books are:
 
 ## Data Types:
 - Examples of Types: int long short float char boolean 
-- Automatic Type Detection:
-- Strict or not-strict Typing:
+- Automatic Type Detection
+- Strict or not-strict Typing
 
 ## Data Structures
 - Lists/Arrays
