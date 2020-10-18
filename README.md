@@ -109,6 +109,14 @@ Two good accessible (for any reader) history of computers books are:
 - Maps (HashMaps, SortedMaps, TreeMaps, ListMaps)
 - Sequences(Seq)
 
+## Debugging Etc.
+Debugging as "walk through the code step by step."
+- preventative methods
+- standards and policies (e.g. PEP8)
+- linters
+- formaters
+- 
+
 ## Other Elements of Coding & Programing
 - Objects
 - Functions
