@@ -29,6 +29,7 @@ Mobile:
 - Grasshopper (Google) https://grasshopper.app/ 
 
 # Curriculum Standards:
+Regardless of the subject area of the course of study, there are best practice standards for what should be included in an effective curriculum.
 1. A clear and comprehensive content-curriculum
 2. Teaching method standards (see ISEP areas / SNES)
 3. Content Maps per lesson/sub-unit
