@@ -4,6 +4,7 @@
 # Doc Version
 https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
 
+This guide will walk through the process of designing a Computer Science study curriculum. 
 
 # Approaches To Designing a "CS" Curriculum
 1. Follow curricula posted by established institutions:
@@ -28,6 +29,8 @@ Mobile:
 - m1m0 https://getmimo.com/ 
 - Grasshopper (Google) https://grasshopper.app/ 
 
+In this guide we will sample from all of the above approaches.
+
 # Curriculum Standards:
 Regardless of the subject area of the course of study, there are best practice standards for what should be included in an effective curriculum.
 1. A clear and comprehensive content-curriculum
@@ -40,7 +43,7 @@ Regardless of the subject area of the course of study, there are best practice s
 8. Pre, Post, Formative, Summative, Testing and separated instruction and certification
 9. Privacy Conscious
 
-# CS curricula commonly include: 
+# CS curricula commonly include these general areas: 
 - Languages (Languages programming & scripting Languages): types, features, uses
 - Programming: problem solving strategies, debugging, testing, functions, OOP vs Functional, etc.
 - Data Structures
