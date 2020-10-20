@@ -120,13 +120,20 @@ Two good accessible (for any reader) history of computers books are:
 - formaters
 
 ## Debugging Etc.
+vsCode Debugger in Python, 4-Lesson-Course:
+https://www.youtube.com/watch?v=KEdq7gC_RTA&list=PLQzZ4krxwT9Yay3kz8ly4wXiYJHzMtsWi
 Debugging as "walk through the code step by step."
-(traversing, including pausing, and inspecting 'state')
+
+Content Map Skills for Debugging:
 - breakpoints
+- traversing
 - "current scope"
 - step into vs. step out
 - call stack
 - variables: local vs. global
+- the debugger-console
+- inspecting 'state'
+
 
 
 ## Other Elements of Coding & Programing
