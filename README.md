@@ -137,11 +137,12 @@ Content Map Skills for Debugging:
 
 
 ## Other Elements of Coding & Programing
+- Time Complexity, Space Complexity, & 'Big O' Notation
+- Recursion & Base Cases
 - Objects
 - Functions
 - Lambda Functions
 - Methods
-
 - Vectors
 - Tensors
 - Matrices
