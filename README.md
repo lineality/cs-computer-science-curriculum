@@ -85,7 +85,7 @@ Two good accessible (for any reader) history of computers books are:
 - Bitwise Operations: ^ & or
 - Unpacking (as in Tuple Unpacking)
 - Mutability: ability or inability to be changed
-- List Comprehensions:
+- List Comprehensions
 
 ## Data Types:
 - Examples of Types: int long short float char boolean 
