@@ -71,7 +71,7 @@ Two good accessible (for any reader) history of computers books are:
 - MVP: Minimap Viable Products 
 - Runtime, "optimization", and "Does it work"
 - Edge Cases
-
+- Workflow
 
 ## Files:
 - print
@@ -79,7 +79,7 @@ Two good accessible (for any reader) history of computers books are:
 - change
 - save
 
-## Operations: Types of Operations & Specific Operations
+## Operations (Types of Operations & Specific Operations)
 - Logical operators: not,  and, or, nor, nand
 - Math Operations: * ** / // % + - 
 - Directory Operations: move
@@ -101,7 +101,7 @@ Two good accessible (for any reader) history of computers books are:
 - nexting
 - jumping
 
-## Data Types:
+## Data Types
 - Examples of Types: int long short float char boolean 
 - Automatic Type Detection:
 - Strict or not-strict Typing:
