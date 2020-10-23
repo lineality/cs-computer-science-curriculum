@@ -234,6 +234,7 @@ For solving problems that either at first seem too difficult to solve or problem
 
 ```
 S.U.P.E.R.
+
 S -> Stop, Focus, Take a deep breath
 U -> Understand the problem, read all the documentation, look at example inputs and outputs, examine code tests, look at edge case policies, etc. Know exactly what is needed.
 P -> Plan (pseudocode) Before starting to write your actual code, make a flow-chart and or pseudo-code outline, often running through a few examples to trace through how the process works
