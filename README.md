@@ -67,6 +67,11 @@ Two good accessible (for any reader) history of computers books are:
 
 
 # Elements of Programming:
+## Programs & Functions
+- MVP: Minimap Viable Products 
+- Runtime, "optimization", and "Does it work"
+- Edge Cases
+
 
 ## Files:
 - print
