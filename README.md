@@ -253,9 +253,9 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 
 ```
 # Problem (User Problem)
-# You Have: 
-# You Need: 
-# You Must: 
+# You Have: (What input do you start with: What does the user have?)
+# You Need: (output: what does the user need)
+# You Must: (requirement such as how many outputs, formatting, data types, specific edge cases)
 
 # Solution (Product / Feature)
 # 
