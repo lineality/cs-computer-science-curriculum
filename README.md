@@ -128,6 +128,7 @@ Two good accessible (for any reader) history of computers books are:
 - linters
 - formaters
 
+
 ## Debugging Etc.
 vsCode Debugger in Python, 4-Lesson-Course:
 https://www.youtube.com/watch?v=KEdq7gC_RTA&list=PLQzZ4krxwT9Yay3kz8ly4wXiYJHzMtsWi
@@ -142,7 +143,6 @@ Content Map Skills for Debugging:
 - variables: local vs. global
 - the debugger-console
 - inspecting 'state'
-
 
 
 ## Other Elements of Coding & Programing
@@ -180,13 +180,16 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Networks (setting up HTTPS, remote SSH)
 - Security (passwords, encryption, social engineering, etc.)
 
-# And...
+# Other Areas:
+- Networks
+- Security
+- Operating Systems
 - Parallel Processing
 - Functional Programming
 - Quantum Computing
 -  
 
-# Specialization Areas:
+# Job Specialization Areas (for portfolio, projects, and job applications):
 - Coding For specialized hardware (Robotics)
 - General Software Engineering
 - Web Dev
