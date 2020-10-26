@@ -10,7 +10,7 @@ This guide will walk through the process of designing a Computer Science study c
 1. Follow curricula posted by established institutions:
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ You could source a topic/skill list from this as a content map, and then source further instruction from online. 
 Note: This will likely be shifted towards abstract principles (and away from practical implementation)
-https://www.khanacademy.org/  tends to be very reliable.
+https://www.khanacademy.org/  tends to be very reliable for good edu programes
 
 2. Use "the standard technical interview" or "coding interview" as your guide to compiling a primary skill/ability list:
 Note: This will likely be shifted towards practical programming (and way from abstract principle discussion). https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
