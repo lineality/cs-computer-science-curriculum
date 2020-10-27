@@ -10,7 +10,7 @@ This guide will walk through the process of designing a Computer Science study c
 1. Follow curricula posted by established institutions:
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ You could source a topic/skill list from this as a content map, and then source further instruction from online. 
 Note: This will likely be shifted towards abstract principles (and away from practical implementation)
-https://www.khanacademy.org/  tends to be very reliable for good edu programes
+https://www.khanacademy.org/  tends to be very reliable.
 
 2. Use "the standard technical interview" or "coding interview" as your guide to compiling a primary skill/ability list:
 Note: This will likely be shifted towards practical programming (and way from abstract principle discussion). https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
@@ -91,7 +91,7 @@ Two good accessible (for any reader) history of computers books are:
 - Unpacking (as in Tuple Unpacking)
 - Mutability: ability or inability to be changed
 
-## Decision Making
+## Decision Making & Computations
 - if else elif
 - while
 - List Comprehensions
@@ -100,6 +100,8 @@ Two good accessible (for any reader) history of computers books are:
 - exiting
 - nexting
 - jumping
+- Lambda Functions
+- Booleans in Computations
 
 ## Data Types
 - Examples of Types: int long short float char boolean 
@@ -133,7 +135,6 @@ Two good accessible (for any reader) history of computers books are:
 - linters
 - formaters
 
-
 ## Debugging Etc.
 vsCode Debugger in Python, 4-Lesson-Course:
 https://www.youtube.com/watch?v=KEdq7gC_RTA&list=PLQzZ4krxwT9Yay3kz8ly4wXiYJHzMtsWi
@@ -148,7 +149,6 @@ Content Map Skills for Debugging:
 - variables: local vs. global
 - the debugger-console
 - inspecting 'state'
-
 
 ## Other Elements of Coding & Programing
 - Time Complexity, Space Complexity, & 'Big O' Notation
@@ -192,7 +192,8 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Parallel Processing
 - Functional Programming
 - Quantum Computing
--  
+- systems design
+- systems engineering
 
 # Job Specialization Areas (for portfolio, projects, and job applications):
 - Coding For specialized hardware (Robotics)
@@ -209,6 +210,12 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 	- Legal
 	- Aerospace
 	- Defense
+
+## Books
+- Clean Code by Robert Martin
+- Clean Architecture by Robert Martin
+- Design Patterns by the gang of four
+
 
 
 # Sample Starting Point / Starting Lesson
@@ -256,7 +263,11 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 
 ## Best Practice Coding Template
 
+
+
 ```
+#
+#
 # Problem (User Problem)
 # You Have: (What input do you start with: What does the user have?)
 # You Need: (output: what does the user need)
