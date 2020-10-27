@@ -167,7 +167,25 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Runtime
 - Memory Costs
 
-### On "Programing"
+
+## Code & Communication
+####"How to write code? Communication with people is the most important thing." ~ Brian Doyle
+- Verbal Practice (explain your code to your friends, pets, or plants)
+- Explaining to others is part of understanding for yourself.
+- Documentation in Code
+- Naming Variables
+- Readable vs. Terse
+
+## Coding as A Team or Distributed 'Project'
+- SCRUM
+- Schedules
+- Goals
+- Sustainability
+- Advocacy
+- Ownership
+
+
+# On "Programing"
 - "Programming" vs. "Computer Science": Depending on the course, Programing and  Computer-Science may be lumped together or taught separately or only one may be touched on. The distinction (if one is made) is often similar to the 'pure vs. applied' divide common throughout science and engineering, etc. 'Computer Science' is often pure ideas and ideals, concepts and principles. 'Programing' is often full of specific hardware-and-software skills and various practical considerations in doing projects in the real world.  
 - Style:  The primary question and criteria for anything added to or done to a set of code is: How does this make the code easier to read, understand, and build on? If the addition or change does not help in any of those contexts, that is a red flag. There are people who aggressively attack readability, which is also a red flag. 
 - Terminal & Bash
@@ -185,13 +203,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Networks (setting up HTTPS, remote SSH)
 - Security (passwords, encryption, social engineering, etc.)
 
-# Code & Communication
-####"How to write code? Communication with people is the most important thing." ~ Brian Doyle
-- Verbal Practice (explain your code to your friends, pets, or plants)
-- Explaining to others is part of understanding for yourself.
-- Documentation in Code
-- Naming Variables
-- Readable vs. Terse
+
 
 
 # Other Areas:
