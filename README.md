@@ -185,6 +185,15 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Networks (setting up HTTPS, remote SSH)
 - Security (passwords, encryption, social engineering, etc.)
 
+# Code & Communication
+####"How to write code? Communication with people is the most important thing." ~ Brian Doyle
+- Verbal Practice (explain your code to your friends, pets, or plants)
+- Explaining to others is part of understanding for yourself.
+- Documentation in Code
+- Naming Variables
+- Readable vs. Terse
+
+
 # Other Areas:
 - Networks
 - Security
