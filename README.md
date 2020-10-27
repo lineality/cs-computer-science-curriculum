@@ -289,16 +289,21 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 ```
 # Name, Date, Title
 #
-# Problem (User Problem)
+# Problem (User's Problem)
 # You Have: (What input do you start with: What does the user have?)
 # You Need: (output: what does the user need)
-# You Must: (requirement such as how many outputs, formatting, data types, specific edge cases)
-
+# You Must: (requirement such as how many outputs, 
+#            formatting, data types, specific edge cases)
+#
+# Edge Cases Etc.
+#
 # Solution (Product / Feature)
 # 
-
+#
+# Example input / output
+#
 # I Learned:
 # (Compare to other solutions)
-
+#
 # YOUR CODE HERE
 ```
