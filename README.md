@@ -175,6 +175,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Documentation in Code
 - Naming Variables
 - Readable vs. Terse
+- communication and tested code vs. 'uniqueness' and plagiarism fetishism
 
 ## Coding as A Team or Distributed 'Project'
 - SCRUM
@@ -290,7 +291,8 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 # Name, Date, Title
 #
 # Problem (User's Problem)
-# You Have: (What input do you start with: What does the user have?)
+# You Have: 
+#	(What input do you start with: What does the user have?)
 # You Need: (output: what does the user need)
 # You Must: (requirement such as how many outputs, 
 #            formatting, data types, specific edge cases)
