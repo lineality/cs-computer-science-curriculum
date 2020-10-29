@@ -1,10 +1,12 @@
 
 # Teaching CS Computer Science and Programming: Outline, Curriculum, Notes, Suggestions, Examples
 
+
 # Doc Version
 https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
 
 This guide will walk through the process of designing a Computer Science study curriculum. 
+
 
 # Approaches To Designing a "CS" Curriculum
 1. Follow curricula posted by established institutions:
@@ -31,6 +33,7 @@ Mobile:
 
 In this guide we will sample from all of the above approaches.
 
+
 # Curriculum Standards:
 Regardless of the subject area of the course of study, there are best practice standards for what should be included in an effective curriculum.
 1. A clear and comprehensive content-curriculum
@@ -43,6 +46,7 @@ Regardless of the subject area of the course of study, there are best practice s
 8. Pre, Post, Formative, Summative, Testing and separated instruction and certification
 9. Privacy Conscious
 
+
 # CS curricula commonly include these general areas: 
 - Languages (Languages programming & scripting Languages): types, features, uses
 - Programming: problem solving strategies, debugging, testing, functions, OOP vs Functional, etc.
@@ -52,10 +56,12 @@ Regardless of the subject area of the course of study, there are best practice s
 - SCRUM software team project organization
 - History of Computer Development
 
+
 # History:
 Two good accessible (for any reader) history of computers books are:
 - https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703
 - https://www.amazon.com/Information-History-Theory-Flood-ebook/dp/B004DEPHUC
+
 
 # Curriculum Standards: An effective curriculum should be...
 - Project Based (learn by doing, fail early and often)
@@ -72,11 +78,13 @@ Two good accessible (for any reader) history of computers books are:
 - Edge Cases
 - Workflow
 
+
 ## Files:
 - print
 - open
 - change
 - save
+
 
 # Languages
 #### Types of Languages:
@@ -100,6 +108,7 @@ Two good accessible (for any reader) history of computers books are:
 - Unpacking (as in Tuple Unpacking)
 - Mutability: ability or inability to be changed
 
+
 ## Decision Making & Computations
 - if else elif
 - while
@@ -112,10 +121,12 @@ Two good accessible (for any reader) history of computers books are:
 - Lambda Functions
 - Booleans in Computations
 
+
 ## Data Types
 - Examples of Types: int long short float char boolean 
 - Automatic Type Detection:
 - Strict or not-strict Typing:
+
 
 ## Data Structures
 - Lists/Arrays
@@ -138,16 +149,19 @@ Two good accessible (for any reader) history of computers books are:
 - Maps (HashMaps, SortedMaps, TreeMaps, ListMaps)
 - Sequences(Seq)
 
+
 ## Bug Prevention & Best Practice
 - preventative methods
 - standards and policies (e.g. PEP8)
 - linters
 - formaters
 
+
 ## Debugging Etc.
 vsCode Debugger in Python, 4-Lesson-Course:
 https://www.youtube.com/watch?v=KEdq7gC_RTA&list=PLQzZ4krxwT9Yay3kz8ly4wXiYJHzMtsWi
 Debugging as "walking through the code step by step."
+
 
 #### Content Map Skills for Debugging:
 - breakpoints
@@ -158,6 +172,7 @@ Debugging as "walking through the code step by step."
 - variables: local vs. global
 - the debugger-console
 - inspecting 'state'
+
 
 ## Other Elements of Coding & Programing
 - Time Complexity, Space Complexity, & 'Big O' Notation
