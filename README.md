@@ -307,7 +307,6 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 #            formatting, data types, specific edge cases)
 #
 # Example input / output:
-# 
 #
 # Solution (Product / Feature)
 # 
