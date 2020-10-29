@@ -96,6 +96,7 @@ Two good accessible (for any reader) history of computers books are:
 #### History of Programming Languages, languages still in use:
 - https://en.wikipedia.org/wiki/History_of_programming_languages
 
+
 ## Operations (Types of Operations & Specific Operations)
 - Logical operators: not,  and, or, nor, nand
 - Math Operations: * ** / //(floor division) %(remainder) + - 
@@ -229,6 +230,10 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Networks (setting up HTTPS, remote SSH)
 - Security (passwords, encryption, social engineering, etc.)
 
+
+
+# Concepts:
+- NP-completeness (Non-polynomial-time completeness)
 
 # Other Areas:
 - Networks
