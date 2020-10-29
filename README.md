@@ -288,7 +288,7 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 
 # Begin! (Example Starting Activity)
 
-## Open 2 Windows:
+## Open 2 Browser Windows:
 - https://edabit.com/challenges/python3 
 - https://colab.research.google.com
 
