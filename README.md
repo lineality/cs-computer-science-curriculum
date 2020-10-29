@@ -93,8 +93,8 @@ Two good accessible (for any reader) history of computers books are:
 - high vs. low level
 - lambda-calculus-functional
 - Object Oriented
-#### History of Languages:
-- 
+#### History of Programming Languages, languages still in use:
+- https://en.wikipedia.org/wiki/History_of_programming_languages
 
 ## Operations (Types of Operations & Specific Operations)
 - Logical operators: not,  and, or, nor, nand
