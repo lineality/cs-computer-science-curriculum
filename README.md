@@ -147,9 +147,9 @@ Two good accessible (for any reader) history of computers books are:
 ## Debugging Etc.
 vsCode Debugger in Python, 4-Lesson-Course:
 https://www.youtube.com/watch?v=KEdq7gC_RTA&list=PLQzZ4krxwT9Yay3kz8ly4wXiYJHzMtsWi
-Debugging as "walk through the code step by step."
+Debugging as "walking through the code step by step."
 
-Content Map Skills for Debugging:
+#### Content Map Skills for Debugging:
 - breakpoints
 - traversing
 - "current scope"
@@ -170,11 +170,13 @@ Content Map Skills for Debugging:
 - Tensors
 - Matrices
 
+
 ## Algorithms
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/syllabus/
 - Sorting
 - Runtime
 - Memory Costs
+
 
 ## Code & Communication
 ####"How to write code? Communication with people is the most important thing." ~ Brian Doyle
@@ -184,6 +186,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Naming Variables
 - Readable vs. Terse
 - communication and tested code vs. 'uniqueness' and plagiarism fetishism
+
 
 ## Coding as A Team or Distributed 'Project'
 - SCRUM
