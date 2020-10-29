@@ -80,14 +80,14 @@ Two good accessible (for any reader) history of computers books are:
 - save
 
 # Languages
-Types of Languages:
+####Types of Languages:
 - static vs. dynamic
 - compiled vs. interpreted
 - high vs. low level
 - lambda-calculus-functional
 - Object Oriented
-History of Languages:
-
+####History of Languages:
+- 
 
 ## Operations (Types of Operations & Specific Operations)
 - Logical operators: not,  and, or, nor, nand
