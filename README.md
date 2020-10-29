@@ -52,7 +52,6 @@ Regardless of the subject area of the course of study, there are best practice s
 - SCRUM software team project organization
 - History of Computer Development
 
-
 # History:
 Two good accessible (for any reader) history of computers books are:
 - https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703
@@ -177,7 +176,6 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Runtime
 - Memory Costs
 
-
 ## Code & Communication
 ####"How to write code? Communication with people is the most important thing." ~ Brian Doyle
 - Verbal Practice (explain your code to your friends, pets, or plants)
@@ -194,7 +192,6 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Sustainability
 - Advocacy
 - Ownership
-
 
 # On "Programing"
 - "Programming" vs. "Computer Science": Depending on the course, Programing and  Computer-Science may be lumped together or taught separately or only one may be touched on. The distinction (if one is made) is often similar to the 'pure vs. applied' divide common throughout science and engineering, etc. 'Computer Science' is often pure ideas and ideals, concepts and principles. 'Programing' is often full of specific hardware-and-software skills and various practical considerations in doing projects in the real world.  
@@ -215,8 +212,6 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Security (passwords, encryption, social engineering, etc.)
 
 
-
-
 # Other Areas:
 - Networks
 - Security
@@ -226,6 +221,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Quantum Computing
 - systems design
 - systems engineering
+
 
 # Job Specialization Areas (for portfolio, projects, and job applications):
 - Coding For specialized hardware (Robotics)
@@ -242,6 +238,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 	- Legal
 	- Aerospace
 	- Defense
+
 
 ## Books
 - Clean Code by Robert Martin
