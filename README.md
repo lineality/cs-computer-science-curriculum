@@ -108,7 +108,9 @@ Two good accessible (for any reader) history of computers books are:
 - Bitwise Operations: ^ & or
 - Unpacking (as in Tuple Unpacking)
 - Mutability: ability or inability to be changed
-
+- Unary operators (takes a single operant) ! ~
+- bitwise complement operator
+https://en.wikipedia.org/wiki/Bitwise_operation#NOT 
 
 ## Decision Making & Computations
 - if else elif
@@ -337,4 +339,12 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 # 
 #
 # YOUR CODE HERE
+
+# Time Test
+import time
+start = time.time()
+# Run Code Here...
+print(function_name("input"))
+print ("Run Time = ", time.time()-start)
+ 
 ```
