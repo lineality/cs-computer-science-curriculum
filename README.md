@@ -95,6 +95,11 @@ Two good accessible (for any reader) history of computers books are:
 - reaching out of Current Working Directory
 - searching/checking directories
 
+## Characters Strings and Printing
+- binary
+- raw files
+- print files
+- unicode
 
 # Languages
 #### Types of Languages:
