@@ -87,8 +87,13 @@ Two good accessible (for any reader) history of computers books are:
 - save
 - remote
 
-## Files:
-- print
+## Directories:
+- move
+- create
+- remove
+- working directory
+- reaching out of Current Working Directory
+- searching/checking directories
 
 
 # Languages
