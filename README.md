@@ -81,9 +81,14 @@ Two good accessible (for any reader) history of computers books are:
 
 ## Files:
 - print
+- create
 - open
-- change
+- change/modify
 - save
+- remote
+
+## Files:
+- print
 
 
 # Languages
