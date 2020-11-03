@@ -216,6 +216,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Verbal Practice (explain your code to your friends, pets, or plants)
 - Explaining to others is part of understanding for yourself.
 - Documentation in Code
+- "Future You"
 - Naming Variables
 - Readable vs. Terse
 - communication and tested code vs. 'uniqueness' and plagiarism fetishism
