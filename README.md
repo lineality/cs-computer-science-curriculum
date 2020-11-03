@@ -220,7 +220,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Naming Variables
 - Readable vs. Terse
 - communication and tested code vs. 'uniqueness' and plagiarism fetishism
-
+- Tradeoffs between clarity vs. other optimizations
 
 ## Coding as A Team or Distributed 'Project'
 - SCRUM
