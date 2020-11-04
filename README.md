@@ -44,7 +44,7 @@ Regardless of the subject area of the course of study, there are best practice s
 6. Cumulative-Review
 7. Student Progression Feedback Based
 8. Pre, Post, Formative, Summative, Testing and separated instruction and certification
-9. Privacy Conscious
+9. Privacy Conscious (student data)
 
 
 # CS curricula commonly include these general areas: 
