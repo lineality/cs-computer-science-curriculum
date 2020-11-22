@@ -287,7 +287,6 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Design Patterns by the gang of four
 
 
-
 # Sample Starting Point / Starting Lesson
 
 ## Recommended First Language: Python
