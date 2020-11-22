@@ -167,6 +167,11 @@ https://en.wikipedia.org/wiki/Bitwise_operation#NOT
 - Maps (HashMaps, SortedMaps, TreeMaps, ListMaps)
 - Sequences(Seq)
 
+## Higher Level Structures, Features, and Techniques
+- slicing
+- zipping
+- list/dict comprehensions
+
 
 ## Bug Prevention & Best Practice
 - preventative methods
