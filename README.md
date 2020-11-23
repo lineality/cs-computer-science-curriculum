@@ -5,7 +5,11 @@
 # Doc Version
 https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
 
-This guide will walk through the process of designing a Computer Science study curriculum: Overall Curriculum parts, Resources, and Computer Science Specifics
+#### This guide will walk through the process of designing a Computer Science study curriculum: 
+- Overall curriculum Design items
+- Strategies & Approaches
+- Resources
+- Computer Science Specifics
 
 
 # Approaches To Designing a "CS" Curriculum
