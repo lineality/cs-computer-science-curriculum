@@ -152,6 +152,17 @@ https://en.wikipedia.org/wiki/Bitwise_operation#NOT
 - Strict or not-strict Typing:
 
 
+
+## Basics
+- files
+- directories
+- variables
+- pathways
+- indices
+- keys
+- values
+
+
 ## Data Structures
 - Lists/Arrays
 - Dictionaries
@@ -374,3 +385,5 @@ print(function_name("input"))
 print ("Run Time = ", time.time()-start)
  
 ```
+
+
