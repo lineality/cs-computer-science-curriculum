@@ -18,10 +18,16 @@ http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ Yo
 Note: This will likely be shifted towards abstract principles (and away from practical implementation)
 https://www.khanacademy.org/  tends to be very reliable.
 
-2. Use "the standard technical interview" or "coding interview" as your guide to compiling a primary skill/ability list:
+2. Books: Tech Interview
+Use "the standard technical interview" or "coding interview" as your guide to compiling a primary skill/ability list:
 Note: This will likely be shifted towards practical programming (and way from abstract principle discussion). https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
 
-3. Another approach is extensive use of free code challenge and exam sites:
+3. Books: Programing Languages
+
+https://en.wikipedia.org/wiki/C_%28programming_language%29 
+https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628 
+
+4. Another approach is extensive use of free code challenge and exam sites:
 (The idea being that in the course of doing so you will discover a cross section of practical and theoretical topics.)
 - Leetcode https://leetcode.com/ 
 - Edabyte https://edabit.com/
@@ -29,6 +35,8 @@ Note: This will likely be shifted towards practical programming (and way from ab
 - JetBrains https://hyperskill.org/curriculum
 - Hackerrank https://www.hackerrank.com/challenges/ 
 - Triplebyte https://triplebyte.com/
+
+
 
 #### Mobile:
 - Sololearn https://www.sololearn.com/
