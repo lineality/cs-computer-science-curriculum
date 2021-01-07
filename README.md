@@ -13,6 +13,8 @@ https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/
 
 
 # Approaches To Designing a "CS" Curriculum
+## In this guide we will sample from all of the following approaches.
+
 1. Follow curricula posted by established institutions:
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ You could source a topic/skill list from this as a content map, and then source further instruction from online. 
 Note: This will likely be shifted towards abstract principles (and away from practical implementation)
@@ -28,8 +30,9 @@ Some trends come and go in computer programming but a lot stays remarkably the s
 https://en.wikipedia.org/wiki/C_%28programming_language%29 
 https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628 
 
-4. Another approach is extensive use of free code challenge and exam sites:
+4. Another approach is extensive use of free 'code challenge' and exam sites:
 (The idea being that in the course of doing so you will discover a cross section of practical and theoretical topics.)
+#### For Desktop:
 - Leetcode https://leetcode.com/ 
 - Edabyte https://edabit.com/
 - Code Signal  https://app.codesignal.com/ 
@@ -37,14 +40,10 @@ https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
 - Hackerrank https://www.hackerrank.com/challenges/ 
 - Triplebyte https://triplebyte.com/
 
-
-
-#### Mobile:
+#### For Mobile:
 - Sololearn https://www.sololearn.com/
 - m1m0 https://getmimo.com/ 
 - Grasshopper (Google) https://grasshopper.app/ 
-
-In this guide we will sample from all of the above approaches.
 
 
 # Curriculum Standards:
