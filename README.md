@@ -216,6 +216,7 @@ Debugging as "walking through the code step by step."
 
 
 #### Content Map Skills for Debugging:
+- software for debugging
 - breakpoints
 - traversing
 - "current scope"
