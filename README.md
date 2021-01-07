@@ -382,7 +382,8 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 # Edge Cases Etc:
 #
 # Revision, Reflection, Future Versions, Action Items:
-# I Learned: (Compare to other solutions)
+#
+# I Learned: (e.g. Compare to other solutions)
 # 
 #
 # YOUR CODE HERE
