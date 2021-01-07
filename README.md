@@ -197,6 +197,10 @@ https://en.wikipedia.org/wiki/Bitwise_operation#NOT
 - zipping
 - list/dict comprehensions
 
+## "Lower" Level Structures, Features, and Techniques
+- assembly language
+- memory management
+- pointers
 
 ## Bug Prevention & Best Practice
 - preventative methods
