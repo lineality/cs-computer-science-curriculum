@@ -387,11 +387,15 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 #
 # YOUR CODE HERE
 
+def my_function(input_1):
+   pass
+ 
 # Time Test
 import time
 start = time.time()
+ 
 # Run Code Here...
-print(function_name("input"))
+print(my_function("input"))
 print ("Run Time = ", time.time()-start)
  
 ```
