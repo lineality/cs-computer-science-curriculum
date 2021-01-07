@@ -1,6 +1,5 @@
 
-# Teaching CS Computer Science and Programming Curriculum: Outline, Notes, Suggestions, Examples
-
+# Teaching CS Computer Science and Programming Curriculum: Outline, Suggestions, Examples, Notes 
 
 # Doc Version
 https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
