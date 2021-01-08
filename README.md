@@ -284,6 +284,14 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Security (passwords, encryption, social engineering, etc.)
 
 
+# Work Flow & Agile
+- MVP: Minimum Viable Product = Simplest Thing That Works
+- Cross Functional Teams of Generalists
+- User Stories
+- Standup
+- Iteration
+- Short Time Cycles
+
 
 # Concepts:
 - NP-completeness (Non-polynomial-time completeness)
