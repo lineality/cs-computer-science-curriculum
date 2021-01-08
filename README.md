@@ -206,6 +206,9 @@ https://en.wikipedia.org/wiki/Bitwise_operation#NOT
 - formaters
 
 
+## Reading & Writing Error Messages "Don't fail silently"
+-
+
 ## Debugging Etc.
 vsCode Debugger in Python, 4-Lesson-Course:
 https://www.youtube.com/watch?v=KEdq7gC_RTA&list=PLQzZ4krxwT9Yay3kz8ly4wXiYJHzMtsWi
