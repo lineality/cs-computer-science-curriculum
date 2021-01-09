@@ -1,10 +1,6 @@
 
 # Teaching CS Computer Science and Programming Curriculum: Outline, Suggestions, Examples, Notes 
 
-
-# Doc Version
-https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
-
 #### This guide will walk through the process of designing a Computer Science study curriculum: 
 - Overall Curriculum Design Items
 - Strategies & Approaches
@@ -96,6 +92,7 @@ Two good accessible (for any reader) history of computers books are:
 - change/modify
 - save
 - remote
+
 
 ## Directories:
 - move
@@ -415,4 +412,5 @@ print ("Run Time = ", time.time()-start)
  
 ```
 
-
+# Doc Version of this File
+https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
