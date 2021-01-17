@@ -329,6 +329,9 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Clean Architecture by Robert Martin
 - Design Patterns by the gang of four
 
+# Imperative and Functional Languages
+
+# Compilers and Interpreters
 
 # Sample Starting Point / Starting Lesson
 
