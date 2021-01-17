@@ -155,7 +155,6 @@ https://en.wikipedia.org/wiki/Bitwise_operation#NOT
 - Strict or not-strict Typing:
 
 
-
 ## Basics to start with:
 - files
 - directories
@@ -170,31 +169,34 @@ https://en.wikipedia.org/wiki/Bitwise_operation#NOT
 - operating systems
 
 
-
 ## Data Structures 1 (or Functional Concrete Data Types)
 - Lists
 - Trees
 - Arrays
 
+
 ## Data Structures 2 (or Functional AbstractData Types)
+- Stacks
+- Queues
+- Priority Queues
+- Sets
+- Tables
+- Binary Search Trees
+- AVL Trees (Adelson-Velskii and Landis) or Balanced Binary Search Trees
+- Heaps
 
 
 ## Data Structures 3 
 - Dictionaries
 - Linked-lists
-- Heaps
 - Graphs
 - Sets
 - Tuples
 - Streams
-- Queues
 - Strings
-- Stacks
 - Blobs
 - Flat "Serialized" Structures
 - Hash Tables
-- Graphs
-- Sets 
 - Maps (HashMaps, SortedMaps, TreeMaps, ListMaps)
 - Sequences(Seq)
 
