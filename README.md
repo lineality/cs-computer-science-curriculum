@@ -23,6 +23,7 @@ Note: This will likely be shifted towards practical programming (and way from ab
 3. Books (Programing Languages Approach):
 Some trends come and go in computer programming but a lot stays remarkably the same when it was well designed to begin with. In 1978 it was remarked ~"C wears well as one's experience with it grows." Forty years later this is still amazingly true. You can learn the entire C language in one small book and with it many core areas of programming. In addition, many later languages and conventions have been influenced by C, so understanding C will help you to understand all that C has influenced.  https://en.wikipedia.org/wiki/C_%28programming_language%29 & https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628 
 
+
 4. Another approach is extensive use of free 'code challenge' and exam sites:
 (The idea being that in the course of doing so you will discover a cross section of practical and theoretical topics.)
 #### For Desktop:
@@ -324,10 +325,11 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 	- Defense
 
 
-## Books
+## More Books
 - Clean Code by Robert Martin
 - Clean Architecture by Robert Martin
 - Design Patterns by the gang of four
+- Algorithms A Functional Programming Approach (Haskel) by Fethi Rabhi and Guy Lapalme
 
 # Imperative and Functional Languages
 
