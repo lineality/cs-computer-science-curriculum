@@ -156,7 +156,7 @@ https://en.wikipedia.org/wiki/Bitwise_operation#NOT
 
 
 
-## Basics
+## Basics to start with:
 - files
 - directories
 - variables
@@ -164,15 +164,26 @@ https://en.wikipedia.org/wiki/Bitwise_operation#NOT
 - indices
 - keys
 - values
+- scripts and programs
+- functions
+- libraries
+- operating systems
 
 
-## Data Structures
-- Lists/Arrays
+
+## Data Structures 1 (or Functional Concrete Data Types)
+- Lists
+- Trees
+- Arrays
+
+## Data Structures 2 (or Functional AbstractData Types)
+
+
+## Data Structures 3 
 - Dictionaries
 - Linked-lists
 - Heaps
 - Graphs
-- Trees
 - Sets
 - Tuples
 - Streams
