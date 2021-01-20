@@ -344,9 +344,11 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Design Patterns by the gang of four
 - Algorithms A Functional Programming Approach (Haskel) by Fethi Rabhi and Guy Lapalme
 
-# Imperative and Functional Languages
+# Imperative vs. Functional Languages
 
-# Compilers and Interpreters
+# Compilers vs. Interpreters
+
+# The Era of Object Oriented Programming in Hindsight
 
 # Sample Starting Point / Starting Lesson
 
