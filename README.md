@@ -367,6 +367,31 @@ https://colab.research.google.com/drive/1dJFunMg6wT-ht8TQ5xpo3PNrnvDkjlhx?usp=sh
 - virtual environments
 - containers (docker) 
 
+## Collaborative Coding
+
+## Terminology:
+- coding
+- hacking
+- scripting
+- programming
+
+## workflow & workflow variations
+- low level programming
+- high level programming
+- 
+
+## Tools & Devices for Writing Programs
+- command line terminal
+- notebook
+- SDK
+- IDE
+- IDK
+- "Text Editor"
+- linter 
+- formater
+- debugger
+
+
 ## Code Challenge Websites: (Try them all)
 - Edabit https://edabit.com/ https://edabit.com/challenges/python3 
 - Code Signal https://app.codesignal.com/ 
