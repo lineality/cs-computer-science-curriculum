@@ -360,10 +360,10 @@ https://colab.research.google.com/drive/1dJFunMg6wT-ht8TQ5xpo3PNrnvDkjlhx?usp=sh
 - Terminal (Command Prompt, Shell, ~Bash)
 - Notebook (Jyputer, Colab)
 
-## Environment:
+## Environments & Containers:
 - local or online
-- linter, formater
-- virtual/container
+- virtual environments
+- containers (docker) 
 
 ## Code Challenge Websites: (Try them all)
 - Edabit https://edabit.com/ https://edabit.com/challenges/python3 
