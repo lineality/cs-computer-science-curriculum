@@ -376,9 +376,16 @@ https://colab.research.google.com/drive/1dJFunMg6wT-ht8TQ5xpo3PNrnvDkjlhx?usp=sh
 - programming
 
 ## workflow & workflow variations
-- low level programming
-- high level programming
-- 
+- Low level programming
+- High level programming
+- Analytics (e.g. business analytics)
+- Data Science Workflow
+- Deep learning Workflow
+
+## Project Management & Organization
+- Agile
+- Scrum
+- Sig Sigma
 
 ## Tools & Devices for Writing Programs
 - command line terminal
