@@ -369,6 +369,11 @@ https://colab.research.google.com/drive/1dJFunMg6wT-ht8TQ5xpo3PNrnvDkjlhx?usp=sh
 - virtual environments
 - containers (docker) 
 
+## Refactoring vs. Optimizing vs. Feature Improvements
+- refactoring is making code easier to understand
+- refactoring is ongoing
+- not everyone uses this definition
+
 ## Collaborative Coding
 
 ## Terminology:
