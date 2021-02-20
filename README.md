@@ -305,8 +305,25 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - Iteration
 - Short Time Cycles
 
+
 # TDD Test Driven Development
 - Code Testing
+
+
+# Continuous Integration 
+- Dev branch & main branch
+- testing based merging
+- "releases"
+
+
+# "upscaling" and monitoring
+- best practice is for mentoring of junior staff to be explicitly required in jobs for all people
+- 
+
+
+# Continuous Delivery
+- not letting features pile up before delivering to user
+
 
 # Concepts:
 - NP-completeness (Non-polynomial-time completeness)
@@ -370,9 +387,13 @@ https://colab.research.google.com/drive/1dJFunMg6wT-ht8TQ5xpo3PNrnvDkjlhx?usp=sh
 - containers (docker) 
 
 ## Refactoring vs. Optimizing vs. Feature Improvements
+- https://www.thoughtworks.com/books/refactoring2 (video)
 - refactoring is making code easier to understand
 - refactoring is ongoing
 - not everyone uses this definition
+- readability
+- change-ability
+- entensiblity 
 
 ## Collaborative Coding
 
