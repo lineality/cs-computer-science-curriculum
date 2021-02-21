@@ -339,6 +339,8 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 - systems design
 - systems engineering
 
+# Deployment
+#### In various areas of computer programming from traditional programming to web development to data science, 'deployment' is a crucial area. 'Deployment' means all the formalities of getting 'the thing you made' to be actually used by the person who uses it. 
 
 # Job Specialization Areas (for portfolio, projects, and job applications):
 - Coding For specialized hardware (Robotics)
