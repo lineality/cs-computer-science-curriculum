@@ -473,11 +473,9 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 # You Need: (output: what does the user need)
 # You Must: (requirement such as how many outputs, 
 #            formatting, data types, specific edge cases)
-#
 # Example input / output:
 #
 # Solution (Product / Feature)
-# 
 # Edge Cases Etc:
 #
 # Revision, Reflection, Future Versions, Action Items:
