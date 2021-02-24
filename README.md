@@ -341,6 +341,12 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-i
 
 # Deployment
 #### In various areas of computer programming from traditional programming to web development to data science, 'deployment' is a crucial area. 'Deployment' means all the formalities of getting 'the thing you made' to be actually used by the person who uses it. 
+- compiled code
+- 'mobile' OS programs (~SDK: android studio / ios)
+- web apps (easy deploy platforms like heroku)
+- ~SDK tools like 'Unity'
+- share-able, run-able, code "notebooks" 
+- "Dashboards" and code user interfaces
 
 # Job Specialization Areas (for portfolio, projects, and job applications):
 - Coding For specialized hardware (Robotics)
