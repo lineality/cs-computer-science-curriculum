@@ -39,6 +39,8 @@ Some trends come and go in computer programming but a lot stays remarkably the s
 - m1m0 https://getmimo.com/ 
 - Grasshopper (Google) https://grasshopper.app/ 
 
+Note: I strongly do not recommend this book as something to read because of the horrendous disorganization and outright incoherent style of writing, but this book does contain example problems to solve:
+https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X 
 
 # Curriculum Standards:
 Regardless of the subject area of the course of study, there are best practice standards for what should be included in an effective curriculum.
