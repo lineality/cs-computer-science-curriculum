@@ -39,7 +39,7 @@ Some trends come and go in computer programming but a lot stays remarkably the s
 - m1m0 https://getmimo.com/ 
 - Grasshopper (Google) https://grasshopper.app/ 
 
-Note: I strongly do not recommend this book as something to read because of the horrendous disorganization and outright incoherent style of writing, but this book does contain example problems to solve:
+Note: I strongly do NOT recommend this book as something to read because of the horrendous disorganization of the layout and outright incoherent style of writing (aimless vague half-off-topic run-on-sentences that can be interpreted in a too many different ways), but this book does contain example problems to solve:
 https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X 
 
 # Curriculum Standards:
