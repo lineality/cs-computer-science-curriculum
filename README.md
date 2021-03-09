@@ -23,11 +23,10 @@ Note: This will likely be shifted towards practical programming (and way from ab
 3. Books (Programing Languages Approach):
 Some trends come and go in computer programming but a lot stays remarkably the same when it was well designed to begin with. In 1978 it was remarked ~"C wears well as one's experience with it grows." Forty years later this is still amazingly true. You can learn the entire C language in one small book and with it many core areas of programming. In addition, many later languages and conventions have been influenced by C, so understanding C will help you to understand all that C has influenced.  https://en.wikipedia.org/wiki/C_%28programming_language%29 & https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628 
 
-4. Books (Algorithms and Algorithmics Textbooks):
+4. Books (Algorithms and Algorithmics Textbooks Approach):
 Pending list of good Algorithms books... 
 Note: I strongly do NOT recommend this book as something to read because of the horrendous disorganization of the layout and outright incoherent style of writing (aimless vague half-off-topic run-on-sentences that can be interpreted in a dozen different ways), but this book does contain example problems to solve:
 https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X 
-
 
 
 5. Another approach is extensive use of free 'code challenge' and exam sites:
