@@ -471,42 +471,53 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 ## Best Practice Coding Template
 
 
-
-```
 """
-Name, Date, Title
+Title:
+Name:
+Date:
  
-Problem (User's Problem)
-You Have: (e.g. What input do you start with: What does the user have?)
-You Need: (output: What does the user need?)
-You Must: (requirement such as how many outputs,
-          formatting, data types, specific edge cases)
-Example input / output:
+Problem: (User's Problem)
+   You Have:
+   You Need:
+   You Must:
  
-Solution (Product / Feature)
-Edge Cases Etc:
+Input/Output Example(s):
+ 
+Solution: (Feature/Product)
+  (Edge cases)
  
 Reflect On:
-(e.g. Improvements, Revision, Future Versions, Action Items)
-Comparisons with other Solutions, Etc)
+   (e.g. Improvements, Revision, Future Versions, Action Items)
+   Comparisons with other Solutions, Etc)
  
  
-I Learned: 
- 
+I learned:
 """
-
-# YOUR CODE HERE
-
-def my_function(input_1):
-   pass
  
-# Time Test
+def function_name(input_name):
+ 
+   # YOUR CODE HERE
+ 
+   return "Hello World"
+ 
+ 
+#################
+# Run Your Code
+#################
+ 
+# Add your Input
+input = FILL_IN
+ 
+# Simple Time Test
 import time
+ 
 start = time.time()
  
-# Run Code Here...
-print(my_function("input"))
-print ("Run Time = ", time.time()-start)
+# Run Code Here...(change function name)
+print(function_name(input))
+ 
+print("Run Time = ", time.time() - start)
+ 
  
 ```
 
