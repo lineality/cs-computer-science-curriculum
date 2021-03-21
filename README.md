@@ -473,23 +473,25 @@ R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other pe
 
 
 ```
-# Name, Date, Title
-#
-# Problem (User's Problem)
-# You Have: (What input do you start with: What does the user have?)
-# You Need: (output: what does the user need)
-# You Must: (requirement such as how many outputs, 
-#            formatting, data types, specific edge cases)
-# Example input / output:
-#
-# Solution (Product / Feature)
-# Edge Cases Etc:
-#
-# Revision, Reflection, Future Versions, Action Items:
-#
-# I Learned: (e.g. Compare to other solutions)
-# 
-#
+"""
+Name, Date, Title
+ 
+Problem (User's Problem)
+You Have: (e.g. What input do you start with: What does the user have?)
+You Need: (output: What does the user need?)
+You Must: (requirement such as how many outputs,
+          formatting, data types, specific edge cases)
+Example input / output:
+ 
+Solution (Product / Feature)
+Edge Cases Etc:
+ 
+Revision, Reflection, Future Versions, Action Items:
+ 
+I Learned: (e.g. Compare to other solutions)
+ 
+"""
+
 # YOUR CODE HERE
 
 def my_function(input_1):
