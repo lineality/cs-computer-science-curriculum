@@ -486,9 +486,12 @@ Example input / output:
 Solution (Product / Feature)
 Edge Cases Etc:
  
-Revision, Reflection, Future Versions, Action Items:
+Reflect On:
+(e.g. Improvements, Revision, Future Versions, Action Items)
+Comparisons with other Solutions, Etc)
  
-I Learned: (e.g. Compare to other solutions)
+ 
+I Learned: 
  
 """
 
