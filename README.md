@@ -1,3 +1,4 @@
+#### cs-computer-science-curriculum
 
 # Teaching CS Computer Science and Programming Curriculum: Outline, Suggestions, Examples, Notes 
 
@@ -67,6 +68,16 @@ Regardless of the subject area of the course of study, there are best practice s
 - Algorithms & Time/Memory Complexity
 - SCRUM software team project organization
 - History of Computer Development
+
+# CS Practical Skills List
+- the terminal
+- files and directories
+- printing to the terminal
+- opening, closing, reading, writing, appending files
+- getting user input in terminal
+- input as parameters
+- environment, packages, libraries, dependencies
+- simple tools & not-simple ide-setup
 
 
 # History:
@@ -523,3 +534,4 @@ print("Run Time = ", time.time() - start)
 
 # Doc Version of this File
 https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
+
