@@ -588,13 +588,13 @@ print("Run Time = ", time.time() - start)
 https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
 
 
-"The c community...does not value beginners."
+## "The c community...does not value beginners." 
 ~ Richard Feldman published Mar 24, 2024
-Rust & Zig Combined
-https://www.youtube.com/watch?v=mve4H2ifY-I   
-https://github.com/rtfeldman/ 
-https://www.linkedin.com/in/rtfeldman/ 
-https://www.linkedin.com/company/vendr-co/
+- Rust & Zig Combined
+- https://www.youtube.com/watch?v=mve4H2ifY-I   
+- https://github.com/rtfeldman/ 
+- https://www.linkedin.com/in/rtfeldman/ 
+- https://www.linkedin.com/company/vendr-co/
 
 
 
