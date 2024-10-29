@@ -597,9 +597,7 @@ https://www.linkedin.com/in/rtfeldman/
 https://www.linkedin.com/company/vendr-co/
 
 
-A presentation you gave on Memory safety entitled "Rust & Zig Combined" was removed from youtube,  yet it is the best memory safety presentation I have ever seen.
-Can this be reposted somewhere? And, is there a place to learn more about Rock OS?
-Best of luck on your projects.
+
 
 
 
