@@ -13,9 +13,16 @@
 ## In this guide we will sample from all of the following approaches.
 
 1. Follow curricula posted by established institutions:
+MIT
 http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/ You could source a topic/skill list from this as a content map, and then source further instruction from online. 
 Note: This will likely be shifted towards abstract principles (and away from practical implementation)
+
 https://www.khanacademy.org/  tends to be very reliable.
+
+CS50: Introduction to Computer Science (updated annually...maybe)
+Python Focused
+https://pll.harvard.edu/course/cs50-introduction-computer-science 
+https://cs50.harvard.edu/college/2023/fall/syllabus/
 
 2. Books (Tech Interview Approach):
 Use "the standard technical interview" or "coding interview" as your guide to compiling a primary skill/ability list:
@@ -23,6 +30,20 @@ Note: This will likely be shifted towards practical programming (and way from ab
 
 3. Books (Programing Languages Approach):
 Some trends come and go in computer programming but a lot stays remarkably the same when it was well designed to begin with. In 1978 it was remarked ~"C wears well as one's experience with it grows." Forty years later this is still amazingly true. You can learn the entire C language in one small book and with it many core areas of programming. In addition, many later languages and conventions have been influenced by C, so understanding C will help you to understand all that C has influenced.  https://en.wikipedia.org/wiki/C_%28programming_language%29 & https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628 
+
+"How To Design Programs" (From Leo Laport)
+https://htdp.org/ 
+https://en.wikipedia.org/wiki/How_to_Design_Programs 
+https://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262062186 
+
+"How to Think Like a Computer Scientist"(From Leo Laport) 
+Many books by this author
+https://www.amazon.com/stores/Allen-Downey/author/B001O8NBPS
+ 
+Maybe Open Source Textbook versions:
+https://open.umn.edu/opentextbooks/textbooks?term=how+to+think+like+a+computer+scientist
+c https://open.umn.edu/opentextbooks/textbooks/620 
+
 
 4. Books (Algorithms and Algorithmics Textbooks Approach):
 Pending list of good Algorithms books... 
@@ -45,6 +66,8 @@ https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X
 - m1m0 https://getmimo.com/ 
 - Grasshopper (Google) https://grasshopper.app/ 
 
+6. Project Approach (Steve Gibson)
+Pick any language and just start doing your own projects, anything so long as you stay active.
 
 
 # Curriculum Standards:
@@ -452,12 +475,24 @@ https://colab.research.google.com/drive/1dJFunMg6wT-ht8TQ5xpo3PNrnvDkjlhx?usp=sh
 - formater
 - debugger
 
+## OS, Posix
+- AT&T vs. UC Berkeley + Linux & GNU
+- https://blog.tartanllama.xyz/writing-a-linux-debugger-elf-dwarf/
 
 ## Code Challenge Websites: (Try them all)
 - Edabit https://edabit.com/ https://edabit.com/challenges/python3 
 - Code Signal https://app.codesignal.com/ 
 - Leet Code https://leetcode.com/ 
 - Hacker Rank https://www.hackerrank.com/ 
+
+## History & Sociology of Computer Science in STEM
+- eras of programming, cultures of programming
+- The 1960's Dartmouth Internet
+- "Abstraction" & UI/UX: SmallTalk as Operating System & Internet
+- 1971
+- Eastern Europe & Software
+- Cryptography, AI, and Computer Science: From Turing to Hinton
+
 
 ### S.U.P.E.R. Problem Solving Framework
 For solving problems that either at first seem too difficult to solve or problems that seemed easy at first but became difficult and confusing (for example, due to incomplete or incorrect instructions, as often happens on 'code challenge' websites), S.U.P.E.R. is one among many synonymous acronym frameworks for using best practice to systematically break down and solve a problem, cutting through other confusions, distractions, etc. 
@@ -472,66 +507,99 @@ E -> Execute, MVP; Start with a minimal working version/vision, test constantly 
 R -> Reflect / Revise / Reiterate / Recurse / Review / Compare; talk to other people, get feedback on alternative solutions, figure out what could be done better; identify tradeoffs and debates, though you may be correct in your case. 
 ```
 
-# Begin! (Example Starting Activity)
+## Begin! (Example Starting Activity)
 
-## Open Two Browser Windows: develope in notebook, submit to site
+### Open Two Browser Windows: develope in notebook, submit to site
 - https://edabit.com/challenges/python3 
 - https://colab.research.google.com
 
 
-## Best Practice Coding Template
+### Best Practice Coding Template
 
 
 """
 Title:
 Name:
 Date:
- 
+
+
 Problem: (User's Problem)
    You Have:
    You Need:
    You Must:
- 
+
+
 Input/Output Example(s):
- 
+
+
 Solution: (Feature/Product)
   (Edge cases)
- 
+
+
 Reflect On:
    (e.g. Improvements, Revision, Future Versions, Action Items)
    Comparisons with other Solutions, Etc)
- 
- 
+
+
+
+
 I learned:
 """
 ```
 def function_name(input_name):
- 
+
+
    # YOUR CODE HERE
- 
+
+
    return "Hello World"
- 
- 
+
+
+
+
 #################
 # Run Your Code
 #################
- 
+
+
 # Add your Input
 input = FILL_IN
- 
+
+
 # Simple Time Test
 import time
- 
+
+
 start = time.time()
- 
+
+
 # Run Code Here...(change function name)
 print(function_name(input))
- 
+
+
 print("Run Time = ", time.time() - start)
- 
- 
+
+
+
+
 ```
 
 # Doc Version of this File
 https://docs.google.com/document/d/1LrrgYk1i4Dze6FXSLx4zlRMP6ToDqDXFNrmOlWhlmWc/edit?usp=sharing
+
+
+"The c community...does not value beginners."
+~ Richard Feldman published Mar 24, 2024
+Rust & Zig Combined
+https://www.youtube.com/watch?v=mve4H2ifY-I   
+https://github.com/rtfeldman/ 
+https://www.linkedin.com/in/rtfeldman/ 
+https://www.linkedin.com/company/vendr-co/
+
+
+A presentation you gave on Memory safety entitled "Rust & Zig Combined" was removed from youtube,  yet it is the best memory safety presentation I have ever seen.
+Can this be reposted somewhere? And, is there a place to learn more about Rock OS?
+Best of luck on your projects.
+
+
 
